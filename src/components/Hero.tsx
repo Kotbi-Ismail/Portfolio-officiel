@@ -42,7 +42,7 @@ const Hero = () => {
           {/* Right Section: Profile Image */}
           <div className="md:w-1/2 mt-12 md:mt-0 flex justify-center">
             <img
-              src="../photo moi.jpg"
+              src="../Profil.jpg"
               alt="Kotbi Ismail Profile Picture"
               className="rounded-full w-64 h-64 md:w-96 md:h-96 object-cover shadow-2xl"
             />
