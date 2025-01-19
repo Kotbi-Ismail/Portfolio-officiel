@@ -11,18 +11,25 @@ const experiences = [
 
 const education = [
   {
+    institution: "High School",
+    program: "Baccalauréat",
+    period: "September 2022 - June 2023",
+    description: "Completed high school studies, preparing for advanced education in web development."
+  },
+  {
     institution: "OFPPT",
     program: "Vocational Training in Web Development - Year 1",
-    period: "September 2022 - June 2023",
+    period: "September 2023 - June 2024",
     description: "Built foundational skills in web development, focusing on HTML, CSS, and JavaScript, along with an introduction to React and PHP."
   },
   {
     institution: "OFPPT",
     program: "Vocational Training in Web Development - Year 2",
-    period: "September 2023 - Present",
+    period: "September 2024 - Present",
     description: "Focused on full-stack web development, learning technologies like HTML, CSS, JavaScript, React, and Laravel."
   }
 ];
+
 
 const Experience = () => {
   return (
