@@ -14,7 +14,7 @@ const projects = [
     description: "A weather dashboard",
     image: "https://images.unsplash.com/photo-1592210454359-9043f067919b?auto=format&fit=crop&q=80&w=800",
     github: "https://github.com/Kotbi-Ismail/wetherApp",
-    live: "https://ismail-wetherapp.netlify.app"
+    live: "https://ismail-weatherapp.netlify.app"
   }
 ];
 
